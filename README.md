@@ -3,7 +3,9 @@
 Homebrew casks by [mstaack](https://github.com/mstaack).
 
 ```sh
-brew install --cask mstaack/tap/lc-menubar
+brew tap mstaack/tap
+brew trust mstaack/tap
+brew install --cask lc-menubar
 ```
 
 | Cask | |
