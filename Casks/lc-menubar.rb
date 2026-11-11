@@ -1,6 +1,6 @@
 cask "lc-menubar" do
-  version "0.1.2"
-  sha256 "af412b2a1076a3ae1190a36a4264e4ba9f4ac544ed9f30ec9c5ada659d106d16"
+  version "0.1.3"
+  sha256 "c894e561f326300829b23b8941210ad42ebd28e3c1ed224c99cf47b7cfddbc9e"
 
   url "https://github.com/mstaack/lc-menubar/releases/download/v#{version}/lc-menubar-#{version}-macos-universal.zip"
   name "LC Menubar"
